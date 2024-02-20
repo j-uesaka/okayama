@@ -1,0 +1,15 @@
+{
+  "okayamadev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-momotaro-okayamadev-104848-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267026814:role/amplify-momotaro-okayamadev-104848-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267026814:role/amplify-momotaro-okayamadev-104848-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-momotaro-okayamadev-104848-deployment",
+      "UnauthRoleName": "amplify-momotaro-okayamadev-104848-unauthRole",
+      "StackName": "amplify-momotaro-okayamadev-104848",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:533267026814:stack/amplify-momotaro-okayamadev-104848/319d20a0-cf92-11ee-8da1-0a288746458b",
+      "AmplifyAppId": "dv4e57csozgqb"
+    }
+  }
+}
